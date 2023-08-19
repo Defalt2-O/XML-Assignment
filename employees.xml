@@ -1,0 +1,50 @@
+<employees>
+    <employee id="1">
+        <personal>
+            <firstName>John</firstName>
+            <lastName>Doe</lastName>
+            <dob>1990-05-15</dob>
+            <gender>Male</gender>
+        </personal>
+        <employment>
+            <position>Software Engineer</position>
+            <salary>75000</salary>
+        </employment>
+        <contact>
+            <email>john.doe@example.com</email>
+            <phoneNumber>123-456-7890</phoneNumber>
+        </contact>
+    </employee>
+    <employee id="2">
+        <personal>
+            <firstName>Jane</firstName>
+            <lastName>Smith</lastName>
+            <dob>1985-09-22</dob>
+            <gender>Female</gender>
+        </personal>
+        <employment>
+            <position>Project Manager</position>
+            <salary>90000</salary>
+        </employment>
+        <contact>
+            <email>jane.smith@example.com</email>
+            <phoneNumber>987-654-3210</phoneNumber>
+        </contact>
+    </employee>
+    <employee id="3">
+        <personal>
+            <firstName>Michael</firstName>
+            <lastName>Johnson</lastName>
+            <dob>1988-12-10</dob>
+            <gender>Male</gender>
+        </personal>
+        <employment>
+            <position>UI/UX Designer</position>
+            <salary>65000</salary>
+        </employment>
+        <contact>
+            <email>michael.johnson@example.com</email>
+            <phoneNumber>555-123-4567</phoneNumber>
+        </contact>
+    </employee>
+</employees>
